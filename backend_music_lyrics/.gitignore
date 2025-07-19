@@ -32,3 +32,5 @@ build/
 ### VS Code ###
 .vscode/
 node_modules/
+
+song_info_cache.txt
